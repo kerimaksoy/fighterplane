@@ -1,0 +1,39 @@
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\bin\Debug\UcakDeneme.exe.config
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\bin\Debug\UcakDeneme.exe
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\bin\Debug\UcakDeneme.pdb
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\obj\Debug\FighterPlane.csprojAssemblyReference.cache
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\obj\Debug\UcakDeneme.Properties.Resources.resources
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\obj\Debug\FighterPlane.csproj.GenerateResource.cache
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\obj\Debug\FighterPlane.csproj.CoreCompileInputs.cache
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\obj\Debug\UcakDeneme.exe
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\obj\Debug\UcakDeneme.pdb
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\obj\Debug\FighterPlane.Form1.resources
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\bin\Debug\Resources\plane.PNG
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\bin\Debug\Resources\fighterplane.PNG
+C:\Users\Bálint\Desktop\UcakOyunu-master - Kopya\UcakDeneme\bin\Debug\Resources\bullet.PNG
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\bin\Debug\Resources\bullet.PNG
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\bin\Debug\Resources\plane.PNG
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\bin\Debug\Resources\fighterplane.PNG
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\bin\Debug\UcakDeneme.exe.config
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\bin\Debug\UcakDeneme.exe
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\bin\Debug\UcakDeneme.pdb
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\obj\Debug\FighterPlane.csprojAssemblyReference.cache
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\obj\Debug\FighterPlane.Form1.resources
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\obj\Debug\UcakDeneme.Properties.Resources.resources
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\obj\Debug\FighterPlane.csproj.GenerateResource.cache
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\obj\Debug\FighterPlane.csproj.CoreCompileInputs.cache
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\obj\Debug\UcakDeneme.exe
+C:\Users\Bálint\Desktop\FighterPlane\UcakDeneme\obj\Debug\UcakDeneme.pdb
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\bin\Debug\Resources\bullet.PNG
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\bin\Debug\Resources\plane.PNG
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\bin\Debug\Resources\fighterplane.PNG
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\bin\Debug\UcakDeneme.exe.config
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\bin\Debug\UcakDeneme.exe
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\bin\Debug\UcakDeneme.pdb
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\obj\Debug\FighterPlane.csprojAssemblyReference.cache
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\obj\Debug\FighterPlane.Form1.resources
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\obj\Debug\UcakDeneme.Properties.Resources.resources
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\obj\Debug\FighterPlane.csproj.GenerateResource.cache
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\obj\Debug\FighterPlane.csproj.CoreCompileInputs.cache
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\obj\Debug\UcakDeneme.exe
+C:\Users\Bálint\Desktop\erasmus\FighterPlane\UcakDeneme\obj\Debug\UcakDeneme.pdb
